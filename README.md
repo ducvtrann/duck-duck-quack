@@ -2,4 +2,4 @@
 
 A real-time chat application using React, Node, Express, and Socket.io.
 
-![](images/ss.png)
+![screenshot](images/SS.png)
